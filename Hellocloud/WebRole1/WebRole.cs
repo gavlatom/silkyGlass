@@ -27,7 +27,7 @@ namespace WebRole1
             {
                 // Set e.Cancel to true to restart this role instance
                 e.Cancel = true;
-				// this is a new comment
+				// this is a new comment 2
             }
         }
     }
